@@ -13,6 +13,7 @@ namespace interfataMSP
 
         public static void Switch(UserControl newPage)
         {
+         //rdrfytguyg
             pageSwitcher.Navigate(newPage);
         }
     }
